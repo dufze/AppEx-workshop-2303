@@ -1,0 +1,19 @@
+{
+    "packageDirectories": [
+        {
+            "path": "force-app",
+            "default": true,
+            "package": "PropertyManager",
+            "versionName": "ver 0.1",
+            "versionNumber": "0.1.0.NEXT"
+        }
+    ],
+    "name": "workbook",
+    "namespace": "workshop230327",
+    "sfdcLoginUrl": "https://login.salesforce.com",
+    "sourceApiVersion": "55.0",
+    "packageAliases": {
+        "PropertyManager": "0Ho2w000000L01RCAS",
+        "PropertyManager@0.1.0-1": "04t2w000009aRGoAAM"
+    }
+}
